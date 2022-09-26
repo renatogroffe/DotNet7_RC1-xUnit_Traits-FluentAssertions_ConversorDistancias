@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Groffe.DotNet7.Distancias</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Renato Groffe</Authors>
+    <Company>Groffe</Company>
+    <PackageTags>NuGet;.NET;Classlib;Km;Milhas</PackageTags>
+    <Description>
+      Biblioteca para conversão de distâncias em Milhas para Km (e vice-versa)
+    </Description>
+  </PropertyGroup>
+
+</Project>
